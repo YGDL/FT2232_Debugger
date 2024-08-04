@@ -1,0 +1,2 @@
+# FT2232_Debugger
+使用FDTI的FT2232来制作开源调试器
