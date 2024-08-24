@@ -474,6 +474,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GIQVNJSB
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for tigard\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [DiffPairSuffix1]
 Positive=_DP
 Negative=_DN
